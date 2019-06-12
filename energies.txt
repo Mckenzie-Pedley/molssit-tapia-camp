@@ -1,0 +1,10 @@
+ butanol 	 -232.1656 in kcal/mol
+ decanol 	 -466.3836 in kcal/mol
+ ethanol 	 -154.0913 in kcal/mol
+ heptanol 	 -349.2740 in kcal/mol
+ hexanol 	 -310.2385 in kcal/mol
+ methanol 	 -115.0480 in kcal/mol
+ nonanol 	 -427.3465 in kcal/mol
+ octanol 	 -388.3111 in kcal/mol
+ pentanol 	 -271.2014 in kcal/mol
+ propanol 	 -193.1284 in kcal/mol
